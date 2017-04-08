@@ -9,4 +9,8 @@ public class MoveScript : MonoBehaviour {
         transform.position += new Vector3(Input.GetAxis("Horizontal"), 0, 0);
 		
 	}
+
+    void Input(){
+
+    }
 }
